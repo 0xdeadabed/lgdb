@@ -11,5 +11,4 @@
    
    Continue in the parrent's instance
       
-      NOTE: a sleep() may be needed in the child process in order to
-      it gets attached properly.
+      NOTE: a sleep() may be needed in the child process in order to it gets attached properly.
