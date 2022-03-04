@@ -18,21 +18,21 @@
 1. compile the code
 ```gcc example.c -g3 -o program```
 
-2. screen 1
+2. instance or window 1
  * lldb  programm
  * b main
  * r
  * (press n to the fork instruction)
 
-3. screen 2
+3. instance or window 2
  * lldb
  * process attach -n program -w
 
-4. screen 1
+4. instance or window 1
  * press c
 
-5. screen 2
+5. instance or window 2
  * press c
 
-6. screen 1
+6. instance or window 1
  * enter a number
